@@ -1,3 +1,7 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=lestergandan)](https://github.com/AndreiD/github-profile-trophy)
+
+![Andrei's Github Stats](https://github-readme-stats.vercel.app/api?username=lestergandan&count_private=true&show_icons=true&theme=light)
+
 - 👋 Hi, I’m @lestergandan
 - 👀 I’m very familiar in react.js and react-native...
 - 🌱 I’m currently learning blockchain and machine learning...
